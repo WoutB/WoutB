@@ -1,16 +1,14 @@
-### Hi there 👋
+[Banner](./Banner.png)
 
-<!--
-**WoutB/WoutB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Wout! A 22 years old, ambitious developer that's passionate about everything digital. When I'm not writing bugs (and crushing them afterwards), I'm most likely watching movies, hiking/cycling or gardening. Also, I'm a cat person 🐈!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I am familiar with / have used:
+• Angular, Node, Javascript, jQuery
+• Java (Spring, Android SDK)
+• PHP, Laravel
+• MySQL, MongoDB
+• C# - ASP.NET
+• GitHub, JIRA, CirlceCI
+• REST, GraphQL
+• WordPress 
+• SAP, ABAP
